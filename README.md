@@ -7,4 +7,5 @@ Tugas 2
 ![2](https://user-images.githubusercontent.com/73772043/97810247-202e0300-1ca5-11eb-9b71-ff3f4f88dbe3.PNG)
 
 Tugas 3
-![3](https://user-images.githubusercontent.com/73772043/97810275-43f14900-1ca5-11eb-9c4a-1e2af1f39d6c.PNG)
+![3](https://user-images.githubusercontent.com/73772043/97810352-c8dc6280-1ca5-11eb-998a-81f53ca6b96d.PNG)
+

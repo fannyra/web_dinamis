@@ -18,6 +18,16 @@ Membuat fungsi
 Fungsi dengan Parameter
 ![fungsi parameter](https://user-images.githubusercontent.com/73772043/100515855-a9a3f880-31b1-11eb-9046-418a7c139daa.PNG)
 
+Fungsi dengan Default Parameter
+![default parameter](https://user-images.githubusercontent.com/73772043/100515888-1c14d880-31b2-11eb-8d72-2e68993b6274.PNG)
+
+Fungsi yang Mengembalikan Nilai
+
+Fungsi di dalam Fungsi
+
+Fungsi Rekursif
+
+
 
 
 

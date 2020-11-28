@@ -22,10 +22,13 @@ Fungsi dengan Default Parameter
 ![default parameter](https://user-images.githubusercontent.com/73772043/100515888-1c14d880-31b2-11eb-8d72-2e68993b6274.PNG)
 
 Fungsi yang Mengembalikan Nilai
+![return value](https://user-images.githubusercontent.com/73772043/100515998-2edbdd00-31b3-11eb-9901-f8be5a5180f1.PNG)
 
 Fungsi di dalam Fungsi
+![fungsi dalam fungsi](https://user-images.githubusercontent.com/73772043/100516001-37ccae80-31b3-11eb-9c0a-0bab0a649673.PNG)
 
 Fungsi Rekursif
+![fungsi rekursif](https://user-images.githubusercontent.com/73772043/100516006-41eead00-31b3-11eb-8ee8-030c2c802082.PNG)
 
 
 

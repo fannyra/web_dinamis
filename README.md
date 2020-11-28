@@ -12,12 +12,10 @@ Tugas 3
 Tugas Percabangan
 ![percabangan](https://user-images.githubusercontent.com/73772043/99182140-aea28a00-2765-11eb-8c5d-f60937979927.PNG)
 
-Tugas Function PHP
-
-1. Membuat fungsi
+Membuat fungsi
 ![fungsi](https://user-images.githubusercontent.com/73772043/100515818-62b60300-31b1-11eb-94b7-c7876eba5c65.PNG)
 
-2. Fungsi dengan Parameter
+Fungsi dengan Parameter
 ![fungsi parameter](https://user-images.githubusercontent.com/73772043/100515855-a9a3f880-31b1-11eb-9046-418a7c139daa.PNG)
 
 
